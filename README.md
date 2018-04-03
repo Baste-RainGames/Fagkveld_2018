@@ -40,3 +40,6 @@ Hvis ingenting har krasjet enda, og laptopen deres ikke har tatt fyr, så er der
 :(
 
 Men du kan allikevel melde deg på Utviklerøl: https://www.facebook.com/groups/494737580556177/?ref=br_rs. Det er en samling for spillutviklere og spillutviklingsinteresserte som holdes en gang i måneden. Det er bare å dukke opp, ta en pils, spørre om det du lurer på og snakke med andre som vil utvikle spill, vi biter ikke! Kanskje du finner noen å utvikle et hobbyprosjekt med?
+
+## Spørsmål?
+sendes til baste@rain-games.com
