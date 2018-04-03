@@ -1,5 +1,4 @@
-# Fagkveld_2018
-Instrukser og filer til for IT-studenter i Bergen 2018
+# Fagkveld 2018: Spillutviklingsworkshop
 
 ## Introduksjon
 Velkommen til workshopen "Introduksjon til Spillutvikling i Unity".
