@@ -4,9 +4,9 @@
 Velkommen til workshopen "Introduksjon til Spillutvikling i Unity".
 I denne workshoppen går vi gjennom hvordan man bruker spillmotoren Unity3D til å lage spill, med vekt på programmeringssiden av utviklingen. 
 
-Unity3D kan brukes til å lage spill til pc, spillkonsoller, IOS, Android, VR/AR, og det meste annet. Vi kommer til å lage noe som kjører på pc (og mac/linux!), men det vi går gjennom er direkte overførbart hvis dere vil lage noe til andre platformer.
-
 Vi kommer til å gå gjennom hvordan man lager scener (aka. levels) i Unity, hvordan man skriver spillkode, og hvordan man kobler koden opp mot ting i spillet. Etter det går vi gjennom noen oppgaver der dere skal bygge noen spillmekanikker, før dere får en utfordring med å gjennomføre noe helt på egen hånd.
+
+Unity3D kan brukes til å lage spill til pc, spillkonsoller, IOS, Android, VR/AR, WebGL, og det meste annet. Vi kommer til å lage noe som kjører på pc (og mac/linux!), men det vi går gjennom er direkte overførbart hvis dere vil lage noe til andre platformer.
 
 Workshoppen skal passe for alle som har gjennomført i hvert fall Inf100, skjønt det kan bli noe utfordrende hvis dere bare går andre semester (men alle liker en utfordring!). Så lenge dere føler dere har noenlunde oversikt over grunnleggende Java, så skal det gå helt fint. Jeg kommer til å legge opp oppgaver sånn at de av dere som har kommet lengre i studiene kan få bryne dere på vanskeligere ting, så det skal være både morro og lærerikt for alle.
 
